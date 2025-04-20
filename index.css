@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(245, 62, 62);
+    text-align: center;
+    height: fit-content;
+    margin: 20px;
+}
+.lead {
+    color: black;
+    text-transform: capitalize;
+    font-style: oblique;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button {
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 600px;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: rgb(245, 62, 62);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer {
+    color: black;
+    font-style: italic;
+}
